@@ -216,5 +216,11 @@ header {
 }
 
 .meal-photo {
+  width: 100%;
+  margin: 0;
+}
 
+.meal-photo img {
+  width: 100%;
+  height: auto;
 }
