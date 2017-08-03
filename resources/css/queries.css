@@ -32,6 +32,13 @@
   }
 
   .city-feature { font-size: 90% }
+
+  .plan-box {
+    width: 100%;
+    margin-left: 0%;
+  }
+
+  .plan-price { font-size: 250%; }
 }
 
 /* Small phones to small tablets (iPad width is 768px): from 481 to 767px */
