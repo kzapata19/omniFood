@@ -18,6 +18,14 @@
     width: 80%;
     margin-left: 10%;
   }
+
+  .steps-box { margin-top: 10px; }
+  .steps-box:last-child { margin-top: 10px; }
+  .works-step { margin-bottom: 40px; }
+  .works-step:last-of-type { margin-bottom: 60px;}
+
+  .app-screen { width: 50%; }
+
 }
 
 /* Small phones to small tablets (iPad width is 768px): from 481 to 767px */
