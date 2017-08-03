@@ -26,6 +26,12 @@
 
   .app-screen { width: 50%; }
 
+  .icon-small {
+    width: 17px;
+    margin-right: 5px;
+  }
+
+  .city-feature { font-size: 90% }
 }
 
 /* Small phones to small tablets (iPad width is 768px): from 481 to 767px */
