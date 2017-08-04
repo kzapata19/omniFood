@@ -222,6 +222,8 @@ header {
   margin-top: 20px;
 }
 
+/*----------------MAIN-NAV-------------------*/
+
 .main-nav {
   float: right;
   list-style: none;
@@ -250,6 +252,21 @@ header {
 .main-nav li a:active {
   border-bottom: 2px solid #e67e22;
 }
+
+/*----------------STICKY-NAV-------------------*/
+
+.sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(255, 255 ,255, 0.98);
+}
+
+.sticky .main-nav li a:link,
+.sticky .main-nav li a:visited {
+  padding: 8px 0;
+  color: #555;
 
 /*-----------------------------------------------*/
 /* FEATURES */
