@@ -80,5 +80,6 @@
 }
 /* Small phones (old iphones like 4/5): from 0 to 480px */
 @media only screen and (max-width: 480px) {
-
+  section { padding: 25px 0;}
+  .contact-form {width: 100%;}
 }
