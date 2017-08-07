@@ -57,6 +57,7 @@ $(document).ready(function(){
         }
       }
     });
+
 // Animations on scroll
 
   $('.js--wp-1').waypoint(function(direction){
@@ -81,6 +82,15 @@ $(document).ready(function(){
     $('.js--wp-4').addClass('animated pulse');
   }, {
     offset: '50%'
+  });
+
+// Mobile navigation
+
+  $('.js--nav-icon').click(function(){
+    const nav = $('.js--main-nav');
+
+    nav.slideToggle(200);
+
   });
 
 });
