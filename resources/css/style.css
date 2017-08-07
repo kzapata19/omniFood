@@ -267,7 +267,7 @@ header {
   float: right;
   margin-top: 30px;
   cursor: pointer;
-  /*display: none;*/
+  display: none;
 }
 
 .mobile-nav-icon i {
