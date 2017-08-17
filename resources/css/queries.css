@@ -104,7 +104,7 @@
     font-size: 120%;
   }
 
-  .works-step { margin-bottom: 20px; }
+  .works-step { margin-bottom: 30px; text-align: left;}
   .works-step:last-of-type { margin-bottom: 20px;}
 }
 /* Small phones (old iphones like 4/5): from 0 to 480px */
