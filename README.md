@@ -4,4 +4,5 @@ Responsive website for a fictional healthy food delivery service
 
 ## Website Preview
 
-[![omnifood](http://imgur.com/a/rE3Vx)](https://www.youtube.com/watch?v=tNN3pQM-5PA&feature=youtu.be)
++[![omnifood video thumbnail](http://i3.ytimg.com/vi/tNN3pQM-5PA/maxresdefault.jpg)](https://youtu.be/tNN3pQM-5PA)
+ Lock conversation
