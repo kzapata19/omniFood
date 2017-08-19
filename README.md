@@ -7,3 +7,6 @@ Responsive website for a fictional healthy food delivery service
 [![omnifood video thumbnail](http://i.imgur.com/7aM98vs.png)](https://youtu.be/tNN3pQM-5PA)
 
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
