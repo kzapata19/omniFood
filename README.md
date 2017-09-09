@@ -1,6 +1,6 @@
 # Omnifood
 
-Responsive website for a fictional healthy food delivery service
+Responsive website for a healthy food delivery service
 
 ## Website Preview
 
